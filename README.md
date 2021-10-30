@@ -4,7 +4,4 @@
 - 💞️ 期望向前辈们学习好的经验与知识.
 - 📫 Email：echoforwork2021@qq.com
 
-<!---
-Panyh01/Panyh01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+访问我的笔记：[Notes](./Notes)
