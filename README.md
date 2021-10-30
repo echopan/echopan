@@ -4,4 +4,4 @@
 - 💞️ 期望向前辈们学习好的经验与知识.
 - 📫 Email：echoforwork2021@qq.com
 
-访问我的笔记：[Notes](../Notes)
+访问我的笔记：[Notes](https://echopan.github.io/Notes)
