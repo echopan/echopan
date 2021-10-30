@@ -5,5 +5,3 @@
 - 📫 Email：echoforwork2021@qq.com
 
 访问我的笔记：[Notes](https://echopan.github.io/Notes)
-
-https://github.com
